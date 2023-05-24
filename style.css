@@ -13,3 +13,7 @@ h2 {
 html {
 	background-color: grey;
 }
+
+a {
+	text-decoration: none;
+}
